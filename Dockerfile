@@ -5,4 +5,4 @@ RUN apt-get upgrade
 RUN apt-get -y update
 RUN apt-get -y install vim-tiny
 
-CMD ['/bin/bash']
+CMD ["/bin/bash"]
